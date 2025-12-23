@@ -2,9 +2,9 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
+    title: 'cnbdg的个人主页🎉',
+    description: '欢迎来到cnbdg的奇妙世界！',
+    keywords: 'cnbdg,cndbg,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
@@ -23,7 +23,7 @@ const config = {
   blur: 5, // 毛玻璃模糊效果
 
   // 我的标签
-  tags : ['乐观开朗','温柔体贴','随和亲切','冷静沉着','才思敏捷','风趣幽默','刚正不阿','善解人意'],
+  tags : ['嘿嘿','温柔体贴','随和亲切','冷静沉着','才思敏捷','风趣幽默','刚正不阿','善解人意'],
 
   // 默认背景壁纸
   background: {
