@@ -13,8 +13,8 @@ const config = {
 
   // 颜色配置
   color: {
-    themecolor: "#FFFFFF", // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
-    welcometitlecolor: "#FFFFFF", // 标题颜色 例： #7BFFC9
+    themecolor: "#D1FFEC", // 主题颜色，推荐趋于亮白可带有轻微色调，例： #D1FFEC
+    welcometitlecolor: "#7BFFC9", // 标题颜色 例： #7BFFC9
     turntablecolor1: "#FFFF00",  // 转盘渐变色一
     turntablecolor2: "#00FFFF"   // 转盘渐变色二
   },
@@ -54,8 +54,8 @@ const config = {
 
   //社交按钮，图标使用mdi图标（https://pictogrammers.com/library/mdi/），复制图标名称即可
   socialPlatformIcons: [
-    {icon:"mdi-github",link:"https://www.github.com/leleo886"},
-    {icon:"mdi-email",link:"mailto:leleo886@foxmail.com"},
+    {icon:"mdi-github",link:"https://github.com/cnbdg"},
+    {icon:"mdi-email",link:"https://wx.mail.qq.com/"},
     {icon:"mdi-qqchat",link:"https://im.qq.com/"},
     {icon:"mdi-wechat",link:"https://wx.qq.com/"},
     {icon:"mdi-youtube",link:"https://www.youtube.com"},
@@ -64,10 +64,12 @@ const config = {
 
   //打字机
   typeWriterStrings: [
+    "咕咕嘎嘎，咕咕嘎嘎，咕咕嘎嘎！"
     "如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
     "顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
     "心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
     "生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
+    "咕咕嘎嘎，咕咕嘎嘎，咕咕嘎嘎！"
   ],
 
   //音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
