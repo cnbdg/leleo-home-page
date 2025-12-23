@@ -5,7 +5,7 @@
 	"metaData": {
 		"title": "cnbdg的个人主页",
 		"description": "欢迎来到cndbg的奇妙世界！",
-		"keywords": 'cnbdg,cnbdg,个人主页,个人网站',
+		"keywords": "cnbdg,cnbdg,个人主页,个人网站",
 		"icon": "/favicon.ico"
 	},
 	"avatar": "/img/avatar.jpg",
