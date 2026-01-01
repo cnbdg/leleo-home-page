@@ -139,17 +139,17 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "订阅中心", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://114.xiaoshufang.dpdns.org", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "订阅中心", subtitle: "有趣", text: "If you see this line, I've managed to get your attention.", url: "https://114.xiaoshufang.dpdns.org", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Google", subtitle: "很有趣的网站", text: "If you see this line, I've managed to get your attention.", url: "https://google.com", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "youtube", subtitle: "长视频网站", text: "If you see this line, I've managed to get your attention.", url: "https://youtube.com", show: false },
+		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "bilibili", subtitle: "bilibili干杯", text: "If you see this line, I've managed to get your attention.", url: "https://bilibili.com", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
+	statement: ["有趣的作品", "来自@leleo"],
 }
 
 export default config
