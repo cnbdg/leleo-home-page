@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['嘿嘿嘿嘿', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
 
 	// 默认背景壁纸
 	background: {
@@ -30,8 +30,8 @@ const config = {
 			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
 				"title": "海洋女孩",
-				"preview": "/img/wallpaper/static/海洋女孩/image-pre.webp",
-				"url": "/img/wallpaper/static/海洋女孩/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"preview": "https://s21.ax1x.com/2025/07/23/pVGlaVg.md.jpg",
+				"url": "https://s21.ax1x.com/2025/07/23/pVGlaVg.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
@@ -63,11 +63,11 @@ const config = {
 
 	//打字机
 	typeWriterStrings: [
-		"咕咕嘎嘎",
+		"咕咕嘎嘎!咕咕嘎嘎！咕咕嘎嘎！咕咕嘎嘎！咕咕嘎嘎！！！！",
 		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
 		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
 		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
-		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。"
+		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。并且咕咕嘎嘎"
 	],
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
