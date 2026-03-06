@@ -47,7 +47,7 @@ const config = {
 
 	//极坐标图数据
 	polarChart: {
-		skills: ['无畏契约', '使命召唤', '何意味', '何意味', '何意味', '何意味', '何意味', '何意味', '何意味', '何意味', '何意味'],
+		skills: ['数学', '语文', '英语', '历史', '政治', '生物', '地理', '何意味', '何意味', '何意味', '何意味'],
 		skillPoints: [10, 20, 8, 10, 10, 8, 5, 5, 2, 7, 1],
 	},
 
@@ -65,6 +65,7 @@ const config = {
 	typeWriterStrings: [
 		"咕咕嘎嘎!咕咕嘎嘎！咕咕嘎嘎！咕咕嘎嘎！咕咕嘎嘎！！！！",
 		"如果你看到了这行字，说明我已经成功吸引到了你的注意力。",
+		"咕咕嘎嘎!咕咕嘎嘎！咕咕嘎嘎！咕咕嘎嘎！咕咕嘎嘎！！！！",
 		"顶峰的少年，给了你所有细节，你却说我不是迪迦，给不了你想要的光。",
 		"心简单，世界就简单，幸福才会生长；心自由，生活就自由，到哪都有快乐。",
 		"生命太短，没有时间留给遗憾，若不是终点，请微笑一直向前。并且咕咕嘎嘎"
@@ -139,9 +140,9 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "订阅中心", subtitle: "有趣", text: "If you see this line, I've managed to get your attention.", url: "https://114.xiaoshufang.dpdns.org", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Google", subtitle: "很有趣的网站", text: "If you see this line, I've managed to get your attention.", url: "https://google.com", show: false },
-		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "youtube", subtitle: "长视频网站", text: "If you see this line, I've managed to get your attention.", url: "https://youtube.com", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "订阅中心", subtitle: "节点获取", text: "If you see this line, I've managed to get your attention.", url: "https://114.xiaoshufang.dpdns.org", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Google", subtitle: "全球最大搜索平台", text: "If you see this line, I've managed to get your attention.", url: "https://google.com", show: false },
+		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "youtube", subtitle: "世界最大长视频网站", text: "If you see this line, I've managed to get your attention.", url: "https://youtube.com", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "bilibili", subtitle: "bilibili干杯", text: "If you see this line, I've managed to get your attention.", url: "https://bilibili.com", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
@@ -149,7 +150,7 @@ const config = {
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
-	statement: ["有趣的作品", "来自@leleo"],
+	statement: ["感谢大佬开源", "来自@leleo"],
 }
 
 export default config
