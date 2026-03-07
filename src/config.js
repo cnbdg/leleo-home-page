@@ -140,11 +140,11 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "订阅中心", subtitle: "节点获取", text: "If you see this line, I've managed to get your attention.", url: "https://114.xiaoshufang.dpdns.org", show: false },
+		{ go: "🚀 前往", img: "/img/wallpaper/static/书房夜晚/image-pre.webp", title: "我的个人博客", subtitle: "Ciallo～(∠・ω< )⌒★", text: "If you see this line, I've managed to get your attention.", url: "https://xsf.indevs.in/", show: false },
 		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Google", subtitle: "全球最大搜索平台", text: "If you see this line, I've managed to get your attention.", url: "https://google.com", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "youtube", subtitle: "世界最大长视频网站", text: "If you see this line, I've managed to get your attention.", url: "https://youtube.com", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "bilibili", subtitle: "bilibili干杯", text: "If you see this line, I've managed to get your attention.", url: "https://bilibili.com", show: false },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "节点订阅", subtitle: "获取节点", text: "If you see this line, I've managed to get your attention.", url: "https://vpn.3606604482.workers.dev/b293b328-1888-4bbc-92ea-21c50501c997", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
