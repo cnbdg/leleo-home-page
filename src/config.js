@@ -27,11 +27,11 @@ const config = {
 	// 默认背景壁纸
 	background: {
 		"pc": {   //pc端
-			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
+			"type": "video",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
-				"title": "海洋女孩",
-				"preview": "https://s21.ax1x.com/2025/07/23/pVGlaVg.md.jpg",
-				"url": "https://s21.ax1x.com/2025/07/23/pVGlaVg.jpg",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"title": "你的名字",
+				"preview": "/img/wallpaper/dynamic/2.your name.webm",
+				"url": "/img/wallpaper/dynamic/2.your name.webm",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
