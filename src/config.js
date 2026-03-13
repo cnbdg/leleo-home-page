@@ -111,6 +111,11 @@ const config = {
 				"url": "/img/wallpaper/dynamic/尼尔：机械纪元 团队/Nier-Automata-Team.webm"
 			},
 			{
+			"title": "你的名字1",
+				"preview": "/img/wallpaper/dynamic/2.your name.webm",
+				"url": "/img/wallpaper/dynamic/2.your name.webm"
+			},
+			{
 				"title": "向往航天的女孩",
 				"preview": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
 				"url": "/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
