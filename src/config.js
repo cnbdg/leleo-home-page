@@ -27,11 +27,11 @@ const config = {
 	// 默认背景壁纸
 	background: {
 		"pc": {   //pc端
-			"type": "video",   //"pic":静态壁纸;"video":动态壁纸
+			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
 				"title": "书房夜晚",
-				"preview": "/img/wallpaper/dynamic/2.your name.webm",
-				"url": "/img/wallpaper/dynamic/2.your name.webm",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"preview": "/img/wallpaper/static/书房夜晚/image-pre.webp",
+				"url": "/img/wallpaper/static/书房夜晚/image.webp",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
 		},
 		"mobile": {   //移动端
