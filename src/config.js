@@ -29,7 +29,7 @@ const config = {
 		"pc": {   //pc端
 			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
 			"datainfo": {
-				"title": "书房夜晚",
+				"title": "安逸舒适",
 				"preview": "/img/wallpaper/static/安逸舒适/image-pre.webp",
 				"url": "/img/wallpaper/static/安逸舒适/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
 			},
