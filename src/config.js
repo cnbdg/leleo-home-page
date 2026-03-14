@@ -27,11 +27,11 @@ const config = {
 	// 默认背景壁纸
 	background: {
 		"pc": {   //pc端
-			"type": "pic",   //"pic":静态壁纸;"video":动态壁纸
+			"type": "pic",   
 			"datainfo": {
-				"title": "安逸舒适",
-				"preview": "/img/wallpaper/static/安逸舒适/image-pre.webp",
-				"url": "/img/wallpaper/static/安逸舒适/image.png",     //当然，也可填写网络地址或壁纸api，如随机PC壁纸api："url":"https://t.mwm.moe/pc"
+				"title": "测试背景",
+				"preview": "https://s21.ax1x.com/2025/07/23/pVGlaVg.jpg",
+				"url": "https://s21.ax1x.com/2025/07/23/pVGlaVg.jpg", // 这里换成了一个确定的网络链接
 			},
 		},
 		"mobile": {   //移动端
