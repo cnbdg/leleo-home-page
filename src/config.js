@@ -29,9 +29,9 @@ const config = {
 		"pc": {   //pc端
 			"type": "pic",   
 			"datainfo": {
-				"title": "测试背景",
-				"preview": "https://s21.ax1x.com/2025/07/23/pVGlaVg.jpg",
-				"url": "https://s21.ax1x.com/2025/07/23/pVGlaVg.jpg", // 这里换成了一个确定的网络链接
+				"title": "背景",
+				"preview": "https://s21.ax1x.com/2025/07/23/pVGlmDO.md.jpg",
+				"url": "https://s21.ax1x.com/2025/07/23/pVGlmDO.jpg", // 这里换成了一个确定的网络链接
 			},
 		},
 		"mobile": {   //移动端
