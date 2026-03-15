@@ -153,7 +153,7 @@ const config = {
 		{ go: "👍 前往", img: "https://s21.ax1x.com/2025/07/23/pVGli59.jpg", title: "bilibili", subtitle: "bilibili干杯", text: "If you see this line, I've managed to get your attention.", url: "https://bilibili.com", show: false },
 		{ go: "🗃 前往", img: "https://s21.ax1x.com/2025/07/23/pVGlNqS.jpg", title: "节点订阅", subtitle: "获取节点", text: "If you see this line, I've managed to get your attention.", url: "https://vpn.3606604482.workers.dev/b293b328-1888-4bbc-92ea-21c50501c997", show: false },
 		{ go: "🎨 前往", img: "https://s21.ax1x.com/2025/07/23/pVGlfIJ.jpg", title: "gemini", subtitle: "谷歌AI", text: "If you see this line, I've managed to get your attention.", url: "https://gemini.google.com/app", show: false },
-		{ go: "💍 前往", img: "https://imgchr.com/cnbdg", title: "我的图床", subtitle: "把世界上传到这里", text: "If you see this line, I've managed to get your attention.", url: "https://imgchr.com/cnbdg", show: false },
+		{ go: "💍 前往", img: "https://s21.ax1x.com/2025/07/23/pVGlfIJ.jpg", title: "我的图床", subtitle: "把世界上传到这里", text: "If you see this line, I've managed to get your attention.", url: "https://imgchr.com/cnbdg", show: false },
 		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "还没想好", subtitle: "还没想好", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 	],
 
